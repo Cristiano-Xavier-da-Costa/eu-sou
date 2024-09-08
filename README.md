@@ -1,3 +1,4 @@
+*Essa Aplicação foi criada durante a Imersão Dev com Google Gemini.*
 ## Desvendando os Mistérios das 301 Afirmações do Eu Sou: Um Guia Rápido 
 
 **O que essa aplicação faz?**
