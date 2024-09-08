@@ -1,4 +1,4 @@
-*Essa Aplicação foi criada durante a Imersão Dev com Google Gemini.*
+*Essa Aplicação foi criada durante a Imersão Dev com Google Gemini.* - https://eu-sou.vercel.app/
 ## Desvendando os Mistérios das 301 Afirmações do Eu Sou: Um Guia Rápido 
 
 **O que essa aplicação faz?**
